@@ -1,0 +1,101 @@
+[
+  {
+    "id": "sample-1",
+    "name": "Simple Chicken Fried Rice",
+    "image": "images/placeholder.svg",
+    "category": "Dinner",
+    "cuisine": "Chinese",
+    "summary": "A quick one-pan rice dish that is perfect for using leftovers.",
+    "cookingTime": "25 minutes",
+    "servings": "4",
+    "ingredients": [
+      { "name": "Cooked rice", "measure": "3 cups" },
+      { "name": "Chicken breast, diced", "measure": "300g" },
+      { "name": "Eggs", "measure": "2" },
+      { "name": "Frozen peas and carrots", "measure": "1 cup" },
+      { "name": "Soy sauce", "measure": "3 tbsp" }
+    ],
+    "instructions": [
+      "Heat a little oil in a large pan and cook the chicken until golden.",
+      "Push the chicken aside, scramble the eggs in the same pan.",
+      "Add the vegetables and rice, then stir for 3 minutes.",
+      "Pour in the soy sauce and stir until everything is hot."
+    ],
+    "source": "",
+    "sourceApi": "sample"
+  },
+  {
+    "id": "sample-2",
+    "name": "Fluffy Banana Pancakes",
+    "image": "images/placeholder.svg",
+    "category": "Breakfast",
+    "cuisine": "American",
+    "summary": "Soft pancakes sweetened naturally with ripe bananas.",
+    "cookingTime": "20 minutes",
+    "servings": "3",
+    "ingredients": [
+      { "name": "Ripe bananas", "measure": "2" },
+      { "name": "Flour", "measure": "1 cup" },
+      { "name": "Milk", "measure": "3/4 cup" },
+      { "name": "Egg", "measure": "1" },
+      { "name": "Baking powder", "measure": "1 tsp" }
+    ],
+    "instructions": [
+      "Mash the bananas in a bowl.",
+      "Whisk in the egg and milk, then fold in the flour and baking powder.",
+      "Cook spoonfuls of batter on a hot greased pan until bubbles form.",
+      "Flip and cook for one more minute."
+    ],
+    "source": "",
+    "sourceApi": "sample"
+  },
+  {
+    "id": "sample-3",
+    "name": "Creamy Tomato Pasta",
+    "image": "images/placeholder.svg",
+    "category": "Lunch",
+    "cuisine": "Italian",
+    "summary": "A comforting weeknight pasta with a silky tomato sauce.",
+    "cookingTime": "30 minutes",
+    "servings": "2",
+    "ingredients": [
+      { "name": "Penne pasta", "measure": "200g" },
+      { "name": "Crushed tomatoes", "measure": "1 can" },
+      { "name": "Garlic cloves", "measure": "2" },
+      { "name": "Cream", "measure": "1/3 cup" },
+      { "name": "Parmesan", "measure": "2 tbsp" }
+    ],
+    "instructions": [
+      "Boil the pasta in salted water until tender.",
+      "Fry the garlic, add the tomatoes and simmer for 10 minutes.",
+      "Stir in the cream, then toss with the drained pasta.",
+      "Serve topped with parmesan."
+    ],
+    "source": "",
+    "sourceApi": "sample"
+  },
+  {
+    "id": "sample-4",
+    "name": "Chocolate Mug Cake",
+    "image": "images/placeholder.svg",
+    "category": "Dessert",
+    "cuisine": "Not available",
+    "summary": "A single-serving cake made in the microwave in about two minutes.",
+    "cookingTime": "5 minutes",
+    "servings": "1",
+    "ingredients": [
+      { "name": "Flour", "measure": "4 tbsp" },
+      { "name": "Cocoa powder", "measure": "2 tbsp" },
+      { "name": "Sugar", "measure": "3 tbsp" },
+      { "name": "Milk", "measure": "3 tbsp" },
+      { "name": "Oil", "measure": "2 tbsp" }
+    ],
+    "instructions": [
+      "Mix all dry ingredients in a large mug.",
+      "Add the milk and oil and stir until smooth.",
+      "Microwave for 90 seconds and let it cool for a minute."
+    ],
+    "source": "",
+    "sourceApi": "sample"
+  }
+]
